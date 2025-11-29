@@ -199,7 +199,3 @@ demoFunctions.generateRandomData(10)
 ## License
 
 MIT License - Feel free to modify and extend!
-
-## Creator
-
-**AgentFlow** was created by **Sanket Mishra** - An intelligent multi-tool AI assistant designed to showcase the power of browser-based agent reasoning and workflow automation.
